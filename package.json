@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "color-string": "^1.6.0",
-    "discord.js": "^13.3.1",
+    "discord.js": "^13.14.0",
     "dotenv": "^10.0.0",
     "filesize": "^8.0.6",
     "jimp": "^0.16.1",
